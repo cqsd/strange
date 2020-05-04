@@ -1,0 +1,3 @@
+[submodule "strange"]
+	path = strange
+    url = https://strange-subdomain.ngrok.io/strange.git
